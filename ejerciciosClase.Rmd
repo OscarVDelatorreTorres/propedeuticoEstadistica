@@ -1,0 +1,19 @@
+---
+title: "Cálculos para propedéutico de Estadística"
+author: "Dr. Oscar V. De la Torre Torres"
+date: "2024-03-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(plotly)
+library(stargazer)
+library(openxlsx)
+library(kableExtra)
+library(DT)
+```
+
+# Título
+
+t
